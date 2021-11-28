@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Area" type="id" />
+    <item name="Answer" type="id">Answer</item>
+    <item name="length" type="id">length</item>
+    <item name="clear" type="id">clear</item>
+</resources>
